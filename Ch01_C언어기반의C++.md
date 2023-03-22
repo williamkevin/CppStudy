@@ -12,7 +12,9 @@ int main(void) {
 }
 ```
 ![image](https://user-images.githubusercontent.com/110090496/226311741-5b6db22e-81fc-4127-b86b-52927c2345dc.png)
+
 ### 코드를 통해 알 수 있는 점
+
 - **std::cout<<'출력대상'** 을 통해 출력을 한다. 
 - c언어의 printf와 달리 별도의 출력포멧을 지정하지 않아도 된다. 
 - **<<** 를 사용하여 연달아 출력대상을 출력할 수 있고 **std::endl** 를 통해 줄바꿈을 할 수 있다.
