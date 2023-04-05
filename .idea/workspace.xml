@@ -12,11 +12,7 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6f71878b-f8af-4113-a59d-05c27c3d1ae0" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/exercise/a.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exercise/a.h" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Ch08_상속과다형성.md" beforeDir="false" afterPath="$PROJECT_DIR$/Ch08_상속과다형성.md" afterDir="false" />
-    </list>
+    <list default="true" id="6f71878b-f8af-4113-a59d-05c27c3d1ae0" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -82,7 +78,7 @@
       <workItem from="1680677026954" duration="1064000" />
       <workItem from="1680678123572" duration="36000" />
       <workItem from="1680678162597" duration="132000" />
-      <workItem from="1680678313378" duration="9721000" />
+      <workItem from="1680678313378" duration="9889000" />
     </task>
     <servers />
   </component>
